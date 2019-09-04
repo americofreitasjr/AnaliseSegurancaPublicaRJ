@@ -3,8 +3,8 @@
 
 ### Integrantes do grupo
 
-- Americo Freitas
-- Erica Wong
+- [Americo Freitas](https://github.com/americofreitasjr)
+- [Erica Wong](https://github.com/Erica-Wong)
 
 ### Área de atuação
 
