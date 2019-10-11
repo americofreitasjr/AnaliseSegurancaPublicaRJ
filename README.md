@@ -31,7 +31,7 @@ O trabalho tem como objetivo central, o estudo dos índices de segurança públi
 Não
 
 
-## Preview dos Notebooks ([nbviewer](https://nbviewer.jupyter.org){target="_blank"})
+## Preview dos Notebooks ([nbviewer](https://nbviewer.jupyter.org))
 
  1. [Step_1_Carregando_a_base_do_ISP](https://nbviewer.jupyter.org/github/americofreitasjr/AnaliseSegurancaPublicaRJ/blob/master/Step_1_Carregando_a_base_do_ISP.ipynb)
  2. [Step_2_ISP_Analise_Exploratoria](https://nbviewer.jupyter.org/github/americofreitasjr/AnaliseSegurancaPublicaRJ/blob/master/Step_2_ISP_Analise_Exploratoria.ipynb)
