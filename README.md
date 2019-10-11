@@ -29,3 +29,12 @@ O trabalho tem como objetivo central, o estudo dos índices de segurança públi
 ### Necessita de aprovação de terceiros (empresa, indivíduos, etc)
 
 Não
+
+
+## Preview dos Notebooks ([nbviewer](https://nbviewer.jupyter.org/))
+
+ 1. [Step_1_Carregando_a_base_do_ISP](https://nbviewer.jupyter.org/github/americofreitasjr/AnaliseSegurancaPublicaRJ/blob/master/Step_1_Carregando_a_base_do_ISP.ipynb)
+ 2. [Step_2_ISP_Analise_Exploratoria](https://nbviewer.jupyter.org/github/americofreitasjr/AnaliseSegurancaPublicaRJ/blob/master/Step_2_ISP_Analise_Exploratoria.ipynb)
+ 3. [Step_3_ISP_estudo_da_serie_historica](https://nbviewer.jupyter.org/github/americofreitasjr/AnaliseSegurancaPublicaRJ/blob/master/Step_3_ISP_estudo_da_serie_historica.ipynb)
+ 4. [Step_4_Carregando_bases_BETS](https://nbviewer.jupyter.org/github/americofreitasjr/AnaliseSegurancaPublicaRJ/blob/master/Step_4_Carregando_bases_BETS.ipynb)
+        
